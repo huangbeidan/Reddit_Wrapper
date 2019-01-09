@@ -2,6 +2,7 @@ jReddit-Wrapper
 =====
 ### New Functions Added
 Wrapper Class to support comment tree retrieval and connect with database
+
 Main Method could be found in: src/main/java/examples/Wrapper.java
 
 Original jReddit could be found in: https://github.com/jReddit/jReddit
